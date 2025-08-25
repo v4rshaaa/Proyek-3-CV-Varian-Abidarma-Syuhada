@@ -2,16 +2,18 @@ Website ini merupakan portofolio pribadi yang berisi informasi mengenai profil, 
 
 Teknologi yang Digunakan
 
-HTML5 → untuk struktur halaman.
+HTML5 → untuk struktur halaman
 
-CSS3 (Flexbox & Media Query) → untuk styling dan responsive design.
+CSS3 (Flexbox & Media Query) → untuk styling dan responsive design
 
-Font Awesome → untuk ikon sosial media (GitHub, Instagram, WhatsApp, Email, Spotify).
+Font Awesome → untuk ikon sosial media (GitHub, Instagram, WhatsApp, Email, Spotify)
 
 Bukti Modifikasi Framework / Library
 
-Menggunakan Font Awesome (CDN) untuk ikon sosial media.
+Menggunakan Font Awesome (CDN) untuk ikon sosial media
 
-Memodifikasi tampilan ikon dengan hover effect dan custom color agar sesuai tema website.
+Memodifikasi tampilan ikon dengan hover effect dan custom color agar sesuai tema website
 
-Responsive design diatur menggunakan CSS Media Query sehingga tampilan menyesuaikan ukuran layar (mobile, tablet, desktop).
+Responsive design diatur menggunakan CSS Media Query sehingga tampilan menyesuaikan ukuran layar (mobile, tablet, desktop)
+
+deploy:  https://v4rshaaa.github.io/Proyek-3-CV-Varian-Abidarma-Syuhada/
